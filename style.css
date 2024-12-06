@@ -28,6 +28,15 @@
     color: white;
     cursor: pointer;
 }
+.Auto {
+    background-color: black;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 25px;
+    color: white;
+    cursor: pointer;
+    margin-top: 10px; /* Optional spacing */
+}
 
 @media (max-width: 521px)
 {
